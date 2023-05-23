@@ -1,4 +1,4 @@
-# 강의 진행
+# 강의 준비
 ------------------
 ### 본화면 접속 링크
 https://github.com/stepanowon/megazone
