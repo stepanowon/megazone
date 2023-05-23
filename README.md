@@ -1,7 +1,6 @@
 # 강의 진행
 ------------------
-### WIFI
-  - mz_cloud_edu#2 /Mzcloud#@!
+## WIFI : mz_cloud_edu#2 /Mzcloud#@!
 
 ### 사전설문
   - 원만한 강의 진행을 위해 사전설문을 부탁드립니다.
