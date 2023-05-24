@@ -13,6 +13,7 @@ https://github.com/stepanowon/megazone
   - 교재 접속과 Lab 을 위한 페이지 접속시 이 계정이 필요합니다.
   - AWS 회사 계정이 아닙니다. amazon.com 쇼핑몰 계정을 생성하셔야 합니다.
   - 교재&실습 접속 링크 : https://bit.ly/devops0524-class
+     * 링크는 10시경에 활성화될 것입니다.
   - 교재 접속을 위해서는 https://online.vitalsource.com/ 계정을 생성해야 할 수 있습니다.
   - 실습은 한달간(6.20까지) 여러번 하실 수 있습니다.
   - 교재는 1년간 보실 수 있습니다.
