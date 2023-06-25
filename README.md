@@ -2,7 +2,7 @@
 ------------------
 ### 본화면 접속 링크
 https://github.com/stepanowon/megazone
-
+### 사전설문 : https://bit.ly/awsdw-pre
 ### WIFI : mz_cloud_edu#2 /Mzcloud#@!
 
 ### 아마존 쇼핑몰 계정을 생성해주세요.
