@@ -1,7 +1,7 @@
 # 교육 준비
 ------------------
 ### 본화면 접속 링크
-https://github.com/stepanowon/megazone/devops.MD
+https://github.com/stepanowon/megazone/blob/main/devops.MD
 ### WIFI : mz_cloud_edu#2 /Mzcloud#@!
 ### 사전설문
   - 원만한 강의 진행을 위해 사전설문을 부탁드립니다.
