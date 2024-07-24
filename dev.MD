@@ -10,6 +10,7 @@ https://github.com/stepanowon/megazone/blob/main/dev.MD
 
 ### 교재보기와 Lab을 위해 AWS Builders Lab에 접속해주세요.
   - 교재&실습 접속 링크 : https://bit.ly/dev0724-class
+    * 계정이 없다면 메가존 운영직원에게 제공한 이메일 주소로 등록하세요.
   - Lab은 1개월간 사용할 수 있습니다.
   - 교재는 1년간 보실 수 있습니다.
   - 교재만을 접속을 위해서는 Builders lab에 가입한 이메일주소로 https://online.vitalsource.com/ 에 계정이 있어야만 합니다.
